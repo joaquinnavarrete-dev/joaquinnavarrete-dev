@@ -29,6 +29,13 @@
   📧 Contact me: <strong>joaquinnavarrete1@outlook.com</strong>
 </p>
 
+
+<div align="center">
+  <img src="https://github.com/joaquinnavarrete-dev/joaquinnavarrete-dev/blob/main/icons.png?raw=true" alt="Joaquín Navarrete Banner" width="40%" />
+</div>
+
+
+
 <!-- GitHub Stats Section -->
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
