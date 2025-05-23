@@ -14,49 +14,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- About Me Card -->
-<div align="center">
-  <h2>About Me 💬</h2>
-</div>
 
 <p align="center">
-  🎓 Final-year Computer Science student at the National University of Santiago del Estero<br>
-  👨‍💻 Currently building scalable, user-focused web applications<br>
-  💡 Specialized in JavaScript, Python, Node.js, React, and SQL<br>
-  🎨 Passionate about responsive design and UI/UX using Figma and Adobe<br>
-  🧠 Always learning, always coding, always improving<br>
-  🌍 Languages: Spanish (Native), English (B2), German (A1)<br>
-  📜 Certified Full Stack Developer – Ministry of Education of Buenos Aires<br>
-  📧 Contact me: <strong>joaquinnavarrete1@outlook.com</strong>
+   <img src="https://github.com/joaquinnavarrete-dev/joaquinnavarrete-dev/blob/main/about me.png?raw=true" alt="Joaquín Navarrete Banner" width="60%" />
 </p>
 
 
 <div align="center">
-  <img src="https://github.com/joaquinnavarrete-dev/joaquinnavarrete-dev/blob/main/icons.png?raw=true" alt="Joaquín Navarrete Banner" width="40%" />
-</div>
-
-
-
-<!-- GitHub Stats Section -->
-<div align="center">
-  <h2>📊 My GitHub Stats</h2>
+  <h2>📊 My Technical Skills</h2>
   <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=joaquinnavarrete-dev&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinnavarrete-dev&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquinnavarrete-dev&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<!-- Trophies -->
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=joaquinnavarrete-dev&theme=radical&row=1&column=7&margin-w=5&no-bg=true" alt="GitHub Trophies" width="95%" />
+   <div align="center" >
+     <img src="https://github.com/joaquinnavarrete-dev/joaquinnavarrete-dev/blob/main/icons.png?raw=true" alt="Joaquín Navarrete Banner" width="40%" />
+      <img src="https://github.com/joaquinnavarrete-dev/joaquinnavarrete-dev/blob/main/databases.png?raw=true" alt="Joaquín Navarrete Banner" width="40%" />
+      <img src="https://github.com/joaquinnavarrete-dev/joaquinnavarrete-dev/blob/main/frameworks.png?raw=true" alt="Joaquín Navarrete Banner" width="40%" />
+      <img src="https://github.com/joaquinnavarrete-dev/joaquinnavarrete-dev/blob/main/web.png?raw=true" alt="Joaquín Navarrete Banner" width="40%" />
+   </div>
 </div>
 
 <!-- Skills -->
