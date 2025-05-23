@@ -1,127 +1,87 @@
 
-<!--horizontal divider(gradiant)-->
+<!-- Horizontal Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hi!, I'm Joaquín</h1></summary>
-  </ul>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-
-<!-- Intro start -->
-🎓 I’m a final-year Computer Science student at the National University of Santiago del Estero, passionate about software development and continuous learning.
-
-👨‍💻 I’m currently working on web development projects focused on scalable and intuitive user experiences.
-
-🧠 I specialize in JavaScript, Python, Node.js, and have experience with React, Express.js, and Bootstrap.
-
-🗃️ I build and manage optimized databases using SQL, with attention to performance, structure, and security.
-
-🌐 I enjoy creating responsive, accessible web interfaces with HTML/CSS and modern design tools like Figma and Adobe.
-
-🔄 I follow agile methodologies like Scrum and use Git/GitHub for version control and collaboration.
-
-🌍 Languages: Spanish (Native), English (B2), German (A1)
-
-📜 Certified Full Stack Developer by the Ministry of Education of Buenos Aires.
-
-📫 Let’s connect: joaquinnavarrete1@outlook.com
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-
-<!--profile visit count-->
+<!-- Welcome Section -->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+  <h1 style="font-family: 'Nunito Sans', sans-serif; font-weight: 700; font-size: 3em;">Hi 👋, I'm Joaquín Navarrete</h1>
+  <h3 style="font-family: 'Nunito Sans', sans-serif; font-weight: 400; color: #bbb;">Full Stack Developer | Computer Science Student | Creative Thinker</h3>
 </div>
 
-
-<!--horizontal divider(gradiant)-->
+<!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+<!-- About Me Card -->
+<div align="center">
+  <h2>About Me 💬</h2>
+</div>
 
-Last Edited on: 29/4/2023
+<p align="center">
+  🎓 Final-year Computer Science student at the National University of Santiago del Estero<br>
+  👨‍💻 Currently building scalable, user-focused web applications<br>
+  💡 Specialized in JavaScript, Python, Node.js, React, and SQL<br>
+  🎨 Passionate about responsive design and UI/UX using Figma and Adobe<br>
+  🧠 Always learning, always coding, always improving<br>
+  🌍 Languages: Spanish (Native), English (B2), German (A1)<br>
+  📜 Certified Full Stack Developer – Ministry of Education of Buenos Aires<br>
+  📧 Contact me: <strong>joaquinnavarrete1@outlook.com</strong>
+</p>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=joaquinnavarrete-dev&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinnavarrete-dev&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquinnavarrete-dev&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<!-- Trophies -->
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=joaquinnavarrete-dev&theme=radical&row=1&column=7&margin-w=5&no-bg=true" alt="GitHub Trophies" width="95%" />
+</div>
+
+<!-- Skills -->
+<div align="center">
+  <h2>🛠 Technologies I Use</h2>
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,express,mongodb,mysql,html,css,figma,bootstrap,git,github,postman,linux,vscode&perline=10" alt="Tech Stack" />
+</div>
+
+<!-- Contact Section -->
+<div align="center">
+  <h2>🤝 Connect With Me</h2>
+  <a href="https://www.linkedin.com/in/joaqu%C3%ADn-navarrete-476b5a304/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="mailto:joaquinnavarrete1@outlook.com">
+    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" height="50" width="50" />
+  </a>
+  <a href="https://discordapp.com/users/957722095381540874">
+    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
+  </a>
+</div>
+
+<!-- Profile Visit Count -->
+<div align="center">
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=joaquinnavarrete-dev&icon=3&color=6" alt="Profile Visit Counter" />
+</div>
+
+<!-- Horizontal Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<div align="center">
+  <sub><strong>Last Edited:</strong> 22/05/2025 · Inspired by <a href="https://github.com/1010nishant">1010nishant</a></sub>
+</div>
+
