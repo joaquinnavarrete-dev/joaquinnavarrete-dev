@@ -46,9 +46,6 @@
   <a href="mailto:joaquinnavarrete1@outlook.com">
     <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" height="50" width="50" />
   </a>
-  <a href="https://discordapp.com/users/957722095381540874">
-    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
-  </a>
 </div>
 
 
