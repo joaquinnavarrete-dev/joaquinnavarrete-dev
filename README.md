@@ -1,6 +1,8 @@
 
-<!-- Horizontal Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 
 <!-- Welcome Section -->
 <div align="center">
@@ -53,7 +55,7 @@
 <!-- Skills -->
 <div align="center">
   <h2>🛠 Technologies I Use</h2>
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,express,mongodb,mysql,html,css,figma,bootstrap,git,github,postman,linux,vscode&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,figma,bootstrap,git,github,vscode&perline=10" alt="Tech Stack" />
 </div>
 
 <!-- Contact Section -->
@@ -70,11 +72,7 @@
   </a>
 </div>
 
-<!-- Profile Visit Count -->
-<div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=joaquinnavarrete-dev&icon=3&color=6" alt="Profile Visit Counter" />
-</div>
+
 
 <!-- Horizontal Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
